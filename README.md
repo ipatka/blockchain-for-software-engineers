@@ -52,11 +52,11 @@
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
 
 ## Data Structures
-- [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
-- [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
-- [ ] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
-- [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
-- [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [X] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
+- [X] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
+- [X] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
+- [X] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
+- [X] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ## Cryptography
 - [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
