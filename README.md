@@ -59,13 +59,13 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [X] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ## Cryptography
-- [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
-- [ ] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
-- [ ] [ECDSA](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-- [ ] [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-- [ ] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
-- [ ] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
-- [ ] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
+- [X] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- [X] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
+- [X] [ECDSA](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+- [X] [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+- [X] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
+- [X] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
+- [X] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
 - [ ] [On Bitcoin as a public randomness source](https://pdfs.semanticscholar.org/ebae/9c7d91ea8b6a987642040a2142cc5ea67f7d.pdf). Bonneau J, Clark J, Goldfeder S. '15.
 - [ ] [Distributed Cryptography Based on the Proofs of Work](https://eprint.iacr.org/2014/796). Andrychowicz M, and Dziembowski S. '14.
 
@@ -91,10 +91,10 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
     - [ ] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
 
 ## Networking
-- [ ] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
-  - [ ] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
-  - [ ] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
-  - [ ] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
+- [X] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
+  - [X] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+  - [X] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
+  - [X] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
 - [ ] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
   - [ ] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
 - [ ] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
@@ -238,7 +238,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Bitcoin History](https://youtu.be/apYieuvnUaE)
 - [ ] [Bitcoin Forum](https://bitcointalk.org/index.php?board=1.0)
 - [ ] [Blockchains from a distributed computing perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
-- [ ] [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)**. Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15.
+- [ ] [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf). Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15.
 
 ## Bitcoin and Blockchain Tutorials
 - [ ] [Build your own Blockchain](https://youtu.be/3aJI1ABdjQk)
@@ -339,7 +339,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Additional Resources](https://consensys.github.io/smart-contract-best-practices/bibliography/)
 
 ## Formal Methods
-- [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf). Turuani M, Voegtlin T, Rusinowitch M. FC '16.
+- [ ] [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf). Turuani M, Voegtlin T, Rusinowitch M. FC '16.
 
 ## Whisper
 - [ ] [Whisper Docs](https://github.com/ethereum/wiki/wiki/Whisper)
@@ -350,6 +350,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [EthJS Docs](https://github.com/ethjs/docs)
 - [ ] [Eloquent Javascript](https://eloquentjavascript.net/3rd_edition/)
 - [ ] [NodeJS the right way](https://github.com/transidai1705/javascript-ebooks/blob/master/%5BNode.js%20the%20Right%20Way%20Practical%2C%20Server-Side%20JavaScript%20That%20Scales%20Kindle%20Edition%20by%20Jim%20Wilson%20-%202013%5D.pdf)
+- [ ] Typescript
 
 ## Clients
 - [ ] [Parity](https://wiki.parity.io/)
