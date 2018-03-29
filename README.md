@@ -70,8 +70,8 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Distributed Cryptography Based on the Proofs of Work](https://eprint.iacr.org/2014/796). Andrychowicz M, and Dziembowski S. '14.
 
 ## Distributed Systems
-- [ ] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
-- [ ] [Consensus](https://en.wikipedia.org/wiki/Consensus_%28computer_science%29)
+- [X] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
+- [X] [Consensus](https://en.wikipedia.org/wiki/Consensus_%28computer_science%29)
 - [ ] [Linearizable](https://en.wikipedia.org/wiki/Linearizability)
 - [ ] [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
 - [ ] [Fault Tolerance](https://en.wikipedia.org/wiki/Fault_tolerance)
@@ -95,11 +95,11 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [X] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
   - [X] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
   - [X] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
-- [ ] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
-  - [ ] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
-- [ ] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
-  - [ ] [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
-  - [ ] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
+- [X] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
+  - [X] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
+- [X] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
+  - [X] [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
+  - [X] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
 
 ## Consensus
 - [ ] [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf). Garay J, Kiayias A, Leonardos N. EUROCRYPT '15.
@@ -303,6 +303,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 ## Solidity and Smart Contracts
 - [ ] [Solidity Docs](http://solidity.readthedocs.io/en/v0.4.20/)
+  - [ ] [Solidity Assembly](http://solidity.readthedocs.io/en/v0.4.21/assembly.html)
 - [ ] [Basics of Solidity By Example](https://www.toshblocks.com/solidity/basics-solidity-example/)
 - [ ] [Learn X in Y](https://learnxinyminutes.com/docs/solidity/)
 - [ ] [Browser IDE](https://remix.ethereum.org/)
@@ -325,6 +326,11 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 ## Beginner Tutorials
 - [ ] [Build Your First Blockchain Application in 5 Quick Steps](https://itnext.io/build-your-first-blockchain-application-in-5-quick-steps-89ebb96adbfe)
 - [ ] [CryptoZombies](https://cryptozombies.io/)
+  - [X] Lesson 1
+  - [ ] Lesson 2
+  - [ ] Lesson 3
+  - [ ] Lesson 4
+  - [ ] Lesson 5
 - [ ] [Build Your Own Ethereum Token](https://enlight.nyc/ethereum-token)
 - [ ] [Building a Voting System](https://karl.tech/learning-solidity-part-2-voting/)
 
@@ -342,8 +348,8 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf). Turuani M, Voegtlin T, Rusinowitch M. FC '16.
 
 ## Whisper
-- [ ] [Whisper Docs](https://github.com/ethereum/wiki/wiki/Whisper)
-- [ ] [Whisper Video](https://www.youtube.com/watch?v=U_nPoBVLPiw)
+- [X] [Whisper Docs](https://github.com/ethereum/wiki/wiki/Whisper)
+- [X] [Whisper Video](https://www.youtube.com/watch?v=U_nPoBVLPiw)
 
 ## Front End
 - [ ] [Web3 Docs](https://web3js.readthedocs.io/en/1.0/web3-eth.html)
@@ -355,6 +361,8 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 ## Clients
 - [ ] [Parity](https://wiki.parity.io/)
 
+## Conference Videos
+- [ ] [EthCC](https://www.reddit.com/r/ethereum/comments/83mz5q/all_videos_from_ethcc_18_in_paris/)
 
 ## Tools of the Trade
 - [ ] [Truffle Docs](http://truffleframework.com/docs/)
