@@ -327,10 +327,10 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Build Your First Blockchain Application in 5 Quick Steps](https://itnext.io/build-your-first-blockchain-application-in-5-quick-steps-89ebb96adbfe)
 - [ ] [CryptoZombies](https://cryptozombies.io/)
   - [X] Lesson 1
-  - [ ] Lesson 2
-  - [ ] Lesson 3
-  - [ ] Lesson 4
-  - [ ] Lesson 5
+  - [X] Lesson 2
+  - [X] Lesson 3
+  - [X] Lesson 4
+  - [X] Lesson 5
 - [ ] [Build Your Own Ethereum Token](https://enlight.nyc/ethereum-token)
 - [ ] [Building a Voting System](https://karl.tech/learning-solidity-part-2-voting/)
 
